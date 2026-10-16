@@ -1,0 +1,12 @@
+.env
+.venv/
+.venv310/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+logs/*.log*
+reports/*.csv
+data/*.json
+!.gitkeep
